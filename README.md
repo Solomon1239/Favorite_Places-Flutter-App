@@ -8,7 +8,7 @@ Favorite Places Flutter App — мобильное приложение позв
 - **Google Maps API:** Отображение мест на карте и определение местоположения.
 - **Image Picker:** Загрузка изображений пользователей.
 
-![PlacesList](assets/PlacesList)
+![PlacesList](assets/PlacesList.png)
 ![AddPlace](assets/AddPlace.png)
 ![EditPlace](assets/EditPlace.png)
 
